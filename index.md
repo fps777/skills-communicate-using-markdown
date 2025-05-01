@@ -3,4 +3,6 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
-My change
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### My change
+## ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
