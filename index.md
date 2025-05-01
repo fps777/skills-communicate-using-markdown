@@ -1,6 +1,8 @@
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-# $ git init
-## Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-## var myVar = "Hello, world!";
+### Python 示例
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")
