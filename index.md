@@ -9,5 +9,5 @@ greet("World")
 ```
 # 任务列表
 - [x] Turn on GitHub Pages
-- [x] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
